@@ -51,7 +51,10 @@ print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 ~~~~
 
+
+
 OUTPUT:
+
 ![Screenshot 2025-03-27 214622](https://github.com/user-attachments/assets/2692e79a-4b14-4acf-841a-29ef6b330bf6)
 
 CACULATIONS:
