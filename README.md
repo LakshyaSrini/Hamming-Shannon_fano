@@ -54,10 +54,10 @@ print(f"Variance is : {var}")
 
 CALCULATIONS:
 ![code pg 1](https://github.com/user-attachments/assets/3e41ece9-8642-41a0-8e5e-0e333b0e3aa4)
+
 ![code pg 2](https://github.com/user-attachments/assets/3ac5b3de-b2c7-4cf2-abea-5049f2638844)
+
 ![code pg 3](https://github.com/user-attachments/assets/134c41e8-db80-497e-b951-826f78ced265)
-
-
 
 OUTPUT:
 
