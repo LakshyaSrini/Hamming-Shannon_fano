@@ -59,6 +59,7 @@ CALCULATIONS:
 
 ![code pg 3](https://github.com/user-attachments/assets/134c41e8-db80-497e-b951-826f78ced265)
 
+
 OUTPUT:
 
 ![Screenshot 2025-03-27 214622](https://github.com/user-attachments/assets/2692e79a-4b14-4acf-841a-29ef6b330bf6)
