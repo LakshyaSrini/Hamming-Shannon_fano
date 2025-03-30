@@ -52,12 +52,18 @@ print(f"Variance is : {var}")
 ~~~~
 
 
+CALCULATIONS:
+![code pg 1](https://github.com/user-attachments/assets/3e41ece9-8642-41a0-8e5e-0e333b0e3aa4)
+![code pg 2](https://github.com/user-attachments/assets/3ac5b3de-b2c7-4cf2-abea-5049f2638844)
+![code pg 3](https://github.com/user-attachments/assets/134c41e8-db80-497e-b951-826f78ced265)
+
+
 
 OUTPUT:
 
 ![Screenshot 2025-03-27 214622](https://github.com/user-attachments/assets/2692e79a-4b14-4acf-841a-29ef6b330bf6)
 
-CACULATIONS:
+
 
 RESULT:
 For the given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25
